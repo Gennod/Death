@@ -1,0 +1,636 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    background-color: #202024;
+    line-height: 35px;
+}
+
+p {
+    margin: 0;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.promo {
+    min-height: 605px;
+    background: url('../img/blik.png') center center/cover no-repeat;
+    background-color: #212124;
+}
+
+.topText {
+    padding: 20px 0 10px 0;
+    color: #848486;
+    text-align: center;
+    border-bottom: 1px solid rgb(132, 132, 134, 0.5);
+}
+
+.currency {
+    color: #848486;
+    font-size: 25px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.woman {
+    margin-top: 30px;
+    width: 100%;
+    min-height: 225px;
+}
+
+.womanInner {
+    position: relative;
+    margin: 0 auto;
+    min-height: 200px;
+}
+
+.womanImg {
+    display: block;
+    position: absolute;
+    width: 50%;
+    left: 40%;
+    margin-top: 45px;
+    /* padding-left: 140px; */
+    max-width: 145px;
+    overflow: auto;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.womanIcon {
+    display: block;
+    position: absolute;
+    left: 25%;
+    width: 240px;
+    opacity: 0.2;
+    overflow: auto;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.underWomanText {
+    margin-top: 15px;
+}
+
+.underWomanText p {
+    color: #F6C866;
+    font-size: 25px;
+    margin: 0;
+    text-align: center;
+}
+
+.big {
+    text-transform: uppercase;
+}
+
+.btn {
+    font-size: 18px;
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    width: 190px;
+    height: 40px;
+    border-radius: 50px;
+    text-align: center;
+    padding-top: 10px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    margin-top: 40px;
+    line-height: 25px;
+}
+
+.goldButton_1 {
+    background: rgb(232, 159, 53);
+    background: linear-gradient(90deg, rgba(232, 159, 53, 1) 0%, rgba(234, 196, 126, 1) 30%, rgba(232, 159, 53, 1) 90%);
+}
+
+.goldButton_2 {
+    background: rgb(232, 159, 53);
+    background: linear-gradient(90deg, rgba(232, 159, 53, 1) 12%, rgba(234, 196, 126, 1) 76%, rgba(232, 159, 53, 1) 100%);
+    margin-top: 15px;
+}
+
+.goldButton_3 {
+    margin-top: 34px;
+    background: rgb(232, 159, 53);
+    background: linear-gradient(90deg, rgba(232, 159, 53, 1) 13%, rgba(234, 196, 126, 1) 35%, rgba(232, 159, 53, 1) 100%);
+}
+
+.goldButton_4 {
+    margin-top: 34px;
+    margin-bottom: 34px;
+    background: rgb(232, 159, 53);
+    background: linear-gradient(90deg, rgba(232, 159, 53, 1) 13%, rgba(234, 196, 126, 1) 54%, rgba(232, 159, 53, 1) 100%);
+}
+
+.footerText {
+    color: #848486;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.secret {
+    min-height: 420px;
+    background: #202024;
+    padding-top: 120px;
+    padding-bottom: 90px;
+}
+
+.secretText {
+    margin: 0 auto;
+    text-align: center;
+    color: #fff;
+    font-size: 25px;
+    max-width: 450px;
+    border: 1px solid #fff;
+    padding: 115px 0 90px 0;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.secretText span {
+    color: #F6C866;
+}
+
+.text-gold {
+    color: #F6C866;
+}
+
+.secretImg {
+    position: absolute;
+    max-width: 114px;
+    left: 37%;
+    top: -15%;
+    overflow: auto;
+    margin: auto;
+    position: absolute;
+}
+
+.believe {
+    position: relative;
+    min-height: 520px;
+    z-index: 0;
+    background: url('../img/image\ 7.jpg') center center/cover no-repeat;
+}
+
+.believeContent {
+    margin: 0 auto;
+    padding-top: 200px;
+    text-align: center;
+    font-size: 25px;
+    color: #fff;
+}
+
+.black {
+    position: absolute;
+    min-height: 520px;
+    width: 100%;
+    background: #2e3036;
+    opacity: 0.7;
+    z-index: -1;
+}
+
+.believe p {
+    margin: 0;
+}
+
+.fear {
+    min-height: 500px;
+    background: #202024;
+    padding-top: 115px;
+    padding-bottom: 120px;
+    text-align: center;
+    font-size: 25px;
+    position: relative;
+    overflow: hidden;
+}
+
+.rune {
+    width: 50px;
+    height: 50px;
+    margin-top: 90px;
+}
+
+.italicText {
+    font-family: 'Bad Script', cursive;
+    font-size: 25px;
+}
+
+.italicTextFooter {
+    text-align: center;
+    color: #fff;
+    margin-top: 0px;
+}
+
+.eye {
+    position: absolute;
+    left: -50px;
+    bottom: 80px;
+    width: 150px;
+    opacity: 0.2;
+}
+
+.eye-1 {
+    position: absolute;
+    right: -120px;
+    top: 50%;
+    width: 300px;
+    opacity: 0.2;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    display: none;
+}
+
+.question {
+    min-height: 224px;
+    background: #202024;
+    padding-top: 50px;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    display: none;
+    transition: 0.5s ease;
+    opacity: 0;
+}
+
+.questionQuote {
+    position: relative;
+    max-width: 900px;
+    margin: 0 auto;
+    margin-bottom: 37px;
+    box-sizing: border-box;
+}
+
+.quote .italicText {
+    margin-top: 0;
+}
+
+.divider {
+    border-bottom: 1px solid #fff;
+    opacity: 0.5;
+    margin-bottom: 74px;
+}
+
+.eye-1_quest {
+    position: absolute;
+    right: 10%;
+    width: 145px;
+}
+
+.questionContent {
+    margin: 0 auto;
+    max-width: 520px;
+    text-align: center;
+    min-height: 550px;
+    position: relative;
+}
+
+.questionContentList {
+    display: flex;
+    flex-direction: column;
+}
+
+.question-item {
+    margin-top: 20px;
+}
+
+.questionContent a {
+    font-size: 16px;
+}
+
+.questionContent p {
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+
+.questionContent .goldButton_1 {
+    margin-top: 0;
+}
+
+.questionContent .footerText {
+    margin-top: 160px;
+}
+
+.eye_quest {
+    position: absolute;
+    bottom: 45px;
+    width: 90px;
+    left: 8%;
+}
+
+.loading {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: #202024;
+    display: none;
+}
+
+.voice {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: #202024;
+    display: none;
+}
+
+.theEnd {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: #202024;
+    display: none;
+}
+
+.voiceWrapper {
+    margin: 0 auto;
+    margin-top: 20%;
+    max-width: 900px;
+    text-align: center;
+}
+
+.loaderText {
+    color: #848486;
+    text-align: center;
+}
+
+.loader {
+    width: 73px;
+    height: 73px;
+    background: transparent;
+    position: relative;
+    margin: 30vh auto;
+    margin-bottom: 50px;
+}
+
+.element {
+    width: 7px;
+    height: 14px;
+    border-radius: 5px;
+    position: absolute;
+    background: #FFE3A7;
+    z-index: 2;
+}
+
+.notActive {
+    background: #D79C1E;
+}
+
+#secondQuestionBtn {
+    margin-top: 20px;
+    height: 40px;
+}
+
+input {
+    cursor: pointer;
+}
+
+input[name="Birthday"] {
+    border: 2px solid orange;
+    border-radius: 50px;
+    padding: 5px;
+    width: 179px;
+    height: 30px;
+    text-align: center;
+    line-height: 16px;
+    font-size: 14px;
+}
+
+#lastQuestion a {
+    margin-top: 30px;
+}
+
+#lastQuestion .questionQuote {
+    margin: 20px auto;
+    max-width: 80%;
+    background: #fff;
+    padding: 20px 10px 20px 10px;
+    border-radius: 5px;
+    display: none;
+    opacity: 0;
+}
+
+#lastQuestion .questionQuote .italicText {
+    color: #202024;
+}
+
+#lastQuestion .questionQuote img {
+    right: -90px;
+}
+
+#thirdQuestion a {
+    margin-top: 30px;
+}
+
+#theEnd #thanksModal {
+    margin: 25px auto;
+    max-width: 80%;
+    background: #fff;
+    padding: 20px 10px 20px 10px;
+    border-radius: 5px;
+    opacity: 0;
+}
+
+.theEnd .questionQuote p {
+    color: #202024;
+}
+
+input[type="number"]::-webkit-inner-spin-button, input[type="number"]::-webkit-search-decoration {
+    display: none;
+}
+
+.rectangle {
+    border-color: transparent transparent transparent white;
+    border-style: solid;
+    border-width: 20px;
+    width: 0;
+    height: 0;
+    border: 20px solid transparent;
+    border-top: 20px solid white;
+    position: absolute;
+    bottom: -35px;
+    right: 30px;
+}
+
+.progress-container {
+    height: 0.8rem;
+    width: 50%;
+    border-radius: 5px;
+    background: #fff;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+.voice .progressStatus {
+    font-size: 20px;
+    text-align: center;
+    color: #fff;
+    opacity: 0.5;
+    margin-top: 24px;
+}
+
+.voice .footerText {
+    font-size: 12px;
+}
+
+.progress-container .progress {
+    height: 100%;
+    width: 0;
+    border-radius: 0.4rem;
+    background: #F6C866;
+    transition: width 0.4s ease;
+}
+
+.endContent p {
+    font-size: 18px;
+    text-align: center;
+    color: #fff;
+    line-height: 25px;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+.theEnd-content {
+    margin: 40px auto;
+    font-size: 20px;
+    line-height: 20px;
+    font-weight: 300;
+    text-align: center;
+    text-transform: uppercase;
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 3px;
+    padding: 13px 15px 8px 15px;
+    max-width: 328px;
+}
+
+.theEnd-content span {
+    font-weight: bold;
+}
+
+.endBtn {
+    background: linear-gradient(90deg, rgba(76, 217, 100, 0.9) -6.2%, rgba(50, 185, 73, 0.9) 100%);
+    border-radius: 50px;
+    width: 238px;
+    height: 50px;
+    font-size: 14px;
+    line-height: 14px;
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+}
+
+.dataWrapper {
+    display: flex;
+    flex-direction: column;
+    font-size: 12px;
+    justify-content: flex-start;
+    text-align: left;
+}
+
+.dataOrange {
+    color: #F6C866;
+}
+
+
+
+@media (max-width: 600px) {
+    .footer {
+        display: block;
+    }
+    .endBtn {
+        margin-bottom: 100px;
+    }
+}
+
+@media (max-width: 540px) {
+    #firstQuestion {
+        padding-top: 20px;
+    }
+    .btn {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    .divider {
+        margin-bottom: 35px;
+    }
+    .questionQuote {
+        margin-bottom: 20px;
+    }
+    .questionQuote .italicTextFooter {
+        font-size: 20px;
+    }
+    .questionContent p{
+        font-size: 20px;
+        line-height: 22px;
+    }
+    .voiceWrapper {
+        margin-top: 35%;
+    }
+    .footerText {
+        font-size: 14px;
+    }
+    .endBtn {
+        margin-bottom: 100px;
+    }
+    .questionContent .footerText{
+        margin-top: 100px;
+    }
+}
+@media (max-width: 321px) {
+    .endBtn{
+        margin-bottom: 100px;
+    }
+    .divider {
+        margin-bottom: 15px;
+    }
+    .questionContent p{
+        font-size: 14px;
+        line-height: 21px;
+        margin-bottom: 10px;
+    }
+    .questionQuote .italicTextFooter {
+        font-size: 18px;
+        line-height: 23px;
+    }
+    .questionContent{
+        min-height: 400px;
+    }
+    .questionContent .footerText{
+        margin-top: 30px;
+    }
+    .question {
+        padding-top: 10px;
+    }
+    .theEnd-content {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .footer .footerText {
+        line-height: 20px;
+    }
+}
+@media (max-width: 293px){
+    .endBtn {
+        margin-bottom: 150px;
+    }
+}
